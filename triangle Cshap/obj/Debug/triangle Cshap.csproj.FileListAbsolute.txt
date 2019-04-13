@@ -1,0 +1,10 @@
+D:\软件工程\triangle Cshap\triangle Cshap\bin\Debug\triangle Cshap.exe.config
+D:\软件工程\triangle Cshap\triangle Cshap\bin\Debug\triangle Cshap.exe
+D:\软件工程\triangle Cshap\triangle Cshap\bin\Debug\triangle Cshap.pdb
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle Cshap.csprojAssemblyReference.cache
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle_Cshap.TgFrm.resources
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle_Cshap.Properties.Resources.resources
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle Cshap.csproj.GenerateResource.cache
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle Cshap.csproj.CoreCompileInputs.cache
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle Cshap.exe
+D:\软件工程\triangle Cshap\triangle Cshap\obj\Debug\triangle Cshap.pdb
